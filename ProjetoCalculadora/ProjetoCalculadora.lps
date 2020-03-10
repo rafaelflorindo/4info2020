@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="ProjetoCalculadora.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UProjetoCalculadora"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="73"/>
+        <CursorPos X="7" Y="85"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <Caret Line="80" Column="33" TopLine="57"/>
+      </Position1>
+      <Position2>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <Caret Line="79" Column="7" TopLine="57"/>
+      </Position2>
+      <Position3>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <Caret Line="80" Column="48" TopLine="57"/>
+      </Position3>
+      <Position4>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <Caret Line="82" TopLine="59"/>
+      </Position4>
+      <Position5>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <Caret Line="86" Column="42" TopLine="44"/>
+      </Position5>
+      <Position6>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <Caret Line="88" Column="42" TopLine="61"/>
+      </Position6>
+      <Position7>
+        <Filename Value="uprojetocalculadora.pas"/>
+        <Caret Line="96" Column="11" TopLine="70"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
